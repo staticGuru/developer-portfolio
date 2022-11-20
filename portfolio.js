@@ -303,7 +303,7 @@ export const seoData = {
 		"A passionate Senior Full Stack Web Developer, Mobile Developer and Blockchain Developer.",
 	author: "Guruvignesh",
 	image: "https://avatars.githubusercontent.com/u/79417096?v=4",
-	url: "https://developer-portfolio-1hanzla100.vercel.app",
+	url: "https://developer-portfolio-jxym-staticguru.vercel.app/",
 	keywords: [
 		"Guruvignesh",
 		"Guru",
