@@ -3,13 +3,9 @@
 
 ## Software Developer Portfolio Template built with Next.js, bootstrap that helps you showcase your work and skills as a software developer.
 
-<p align="center">
-  <kbd>
-    <img src="https://github.com/staticGuru/developer-portfolio/blob/master/picture.PNG"></img>
-  </kbd>
-</p>
 
-## To view a live example, **[click here](https://developer-portfolio-staticGuru.vercel.app/)**.
+
+## To view a live example, **[click here](https://developer-portfolio-jxym-6h0qazpfh-staticguru.vercel.app/)**.
 
 Just Edit `portfolio.js` to get your personal portfolio. Feel free to use it as-is or customize it as much as you want.
 

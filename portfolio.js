@@ -217,13 +217,13 @@ export const SkillBars = [
 export const educationInfo = [
 	{
 		schoolName: "Anna University, MIT campus",
-		subHeader: "Master of Science in Computer Science",
+		subHeader: "Bachelor of Engineering in Automobile Engineering",
 		duration: "March 2017 - Apirl 2021",
 		desc: "Participated in the research and tech hackthons.",
 		grade: "Grade A",
 		descBullets: [
-			"Lorem ipsum dolor sit amet, consectetur adipdfgiscing elit",
-			"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+			"Secretary of the Robotics Association",
+			"Member of the software engineering associations",
 		],
 	},
 ];
@@ -274,6 +274,7 @@ export const projects = [
 		name: "Free-Talk",
 		desc: "With Free-Talk, it’s easy to connect with your friends with one to one chat and community chat functionalities bulit on MERN stack.",
 		github: "https://github.com/staticGuru/MERN-chat-application",
+		link:"https://conversation.herokuapp.com/"
 	},
 	{
 		name: "Request creation app",
@@ -284,6 +285,7 @@ export const projects = [
 		name: "React (Ecommerce)",
 		desc: "Lite weight expense tracking application that efficiently trackers users cash flow, debts, goals and gives sugges-tions to minimize spend- ing.reduce debt years to achieve their goals.Used react native to develop UI , redux for state management, realm database as local database",
 		github: "https://github.com/staticGuru/React-ecommerce-app",
+		link:"https://react-ecommerce-app-rho.vercel.app/"
 	},
 ];
 
