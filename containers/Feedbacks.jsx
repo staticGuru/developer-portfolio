@@ -20,10 +20,10 @@ const Feedbacks = () => {
 						</h4>
 					</div>
 				</div>
-				<Row className="row-grid align-items-center">
+				<Row className="col-grid align-items-center">
 					{feedbacks.map((data, i) => {
 						return (
-							<Col key={i} lg={6}>
+							<Col key={i} lg={12}>
 								<FeedbackCard data={data} />
 							</Col>
 						);

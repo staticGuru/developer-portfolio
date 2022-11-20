@@ -232,32 +232,32 @@ export const experience = [
 	{
 		role: "Frontend Developer",
 		company: "Ewall",
-		companylogo: "/img/icons/common/dusecaSoftware.jpg",
+		companylogo: "/img/icons/common/ewall.png",
 		date: "May 2021 – Nov 2022",
-		desc: "I worked as frontend web developer to design web based admin dashboards for mulitple apps using React, Bootstrap, jQuery, Chart.js and some other libraries.",
+		desc: "I worked as frontend web developer to design web based admin dashboards for mulitple apps using React, Bootstrap, jQuery, Chart.js and some other libraries. Integrated backend with Strapi CMS, Node Js, Dev Ops technologies.",
 	},
 	{
 		role: "React and React Native developer",
 		company: "RevealIT Solutions",
-		companylogo: "/img/icons/common/dusecaSoftware.jpg",
+		companylogo: "/img/icons/common/reveal.jpg",
 		date: "May 2019 – Dec 2019",
-		desc: "I worked as React native developer(intern). Develop the Edtech App with native features with video consultations. I built Fully Optimized and High Performance RESTful APIs using Node, PostgresSQL, JWT Authentication, AWS, Integrated Plaid APIs for Fetching Bank Transactions, Integrated Sentry for monitoring Node Server and deployed the API on Heroku Server.",
+		desc: "I worked as React native developer(intern). Develop the Edtech App with native features with video consultations. I built Fully Optimized and High Performance RESTful APIs using Node, PostgresSQL, JWT Authentication, AWS, Integrated Sentry for monitoring Node Server.",
 		// descBullets: [
 		// 	"Lorem ipsum dolor sit amet, consdfgectetur adipiscing elit",
 		// 	"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
 		// ],
 	},
-	{
-		role: "Frontend Developer(Freelance)",
-		company: "Apptolaunch.com",
-		companylogo: "/img/icons/common/bleedAI.jpg",
-		date: "Dec 2021 - Jun 2022",
-		desc: "Developed React component and connect the Graphql query with Redux Saga.Integrated strapi cms.Developed illustration and animation rich websites as per UI.",
-	},
+	// {
+	// 	role: "Frontend Developer(Freelance)",
+	// 	company: "Apptolaunch.com",
+	// 	companylogo: "/img/icons/common/wapidu.jpg",
+	// 	date: "Dec 2021 - Jun 2022",
+	// 	desc: "Developed React component and connect the Graphql query with Redux Saga.Integrated strapi cms.Developed illustration and animation rich websites as per UI.",
+	// },
 	{
 		role: "Software developer",
-		company: "eforum.io",
-		companylogo: "/img/icons/common/wapidu.jpg",
+		company: "Blockscribers",
+		companylogo: "/img/icons/common/blockscribers.jpg",
 		date: "May 2021 -Oct 2022",
 		desc: "Developed illustration and animation rich mobile application as per UI with React Native cross platform.Integrate with AWS AppSync API query for the backend connection and integrate with frontend components. Integrated with Cypress and Jest testing platforms.",
 	},
@@ -277,12 +277,12 @@ export const projects = [
 	},
 	{
 		name: "Request creation app",
-		desc: "Get hands-on experience in technical skills with React native and node",
+		desc: "Design and Develop the React web application and React native mobile applications. Worked with RESTFUL API and GraphQL for data integration. Developed social media platform to create the request creation flow in the individual organization.",
 		github: "https://github.com/staticGuru/request_central_app",
 	},
 	{
 		name: "React (Ecommerce)",
-		desc: "Now your reach to all your favorite entertainment and luxury items is just one touch apart",
+		desc: "Lite weight expense tracking application that efficiently trackers users cash flow, debts, goals and gives sugges-tions to minimize spend- ing.reduce debt years to achieve their goals.Used react native to develop UI , redux for state management, realm database as local database",
 		github: "https://github.com/staticGuru/React-ecommerce-app",
 	},
 ];
@@ -298,19 +298,19 @@ export const feedbacks = [
 
 // See object prototype on SEO.jsx page
 export const seoData = {
-	title: "Hanzla Tauqeer",
+	title: "Guruvignesh",
 	description:
-		"A passionate Full Stack Web Developer and Blockchain Developer.",
-	author: "Hanzla Tauqeer",
-	image: "https://avatars3.githubusercontent.com/u/59178380?v=4",
+		"A passionate Senior Full Stack Web Developer, Mobile Developer and Blockchain Developer.",
+	author: "Guruvignesh",
+	image: "https://avatars.githubusercontent.com/u/79417096?v=4",
 	url: "https://developer-portfolio-1hanzla100.vercel.app",
 	keywords: [
-		"Hanzla",
-		"Hanzla Tauqeer",
-		"@1hanzla100",
-		"1hanzla100",
+		"Guruvignesh",
+		"Guru",
+		"staticGuru",
+		"Freelance developer",
 		"Portfolio",
-		"Hanzla Portfolio ",
-		"Hanzla Tauqeer Portfolio",
+		"developer Portfolio ",
+		"Senior frontend developer",
 	],
 }
