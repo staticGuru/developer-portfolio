@@ -21,7 +21,7 @@ export const socialLinks = {
 	github: "https://github.com/staticGuru/",
 	instagram: "",//instagram profile link
 	facebook: "",//fackbook profile link
-	twitter: "",//twitter profile link
+	twitter: "https://twitter.com/guruvignesh_m",//twitter profile link
 };
 
 export const skillsSection = {
