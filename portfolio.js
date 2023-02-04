@@ -6,7 +6,7 @@ export const greetings = {
 	description:
 		"I'm passionate Full Stack web developer having an experience of web applications with React.js, Next.js,React Native,Flutter and Blockchain development on Ethereum, Solidity, Web3.js, Moralis, and Brownie Framework.",
 	resumeLink:
-		"https://drive.google.com/file/d/1jZ4Dz-RA4sQGXOVL2jpQd6LFmFrIAMs0/view?usp=share_link",
+		"https://drive.google.com/file/d/18G7yutRioZ6BBaWH5o6_Bj0vl5FPLKIP/view?usp=sharing",
 };
 
 export const openSource = {
@@ -286,6 +286,18 @@ export const projects = [
 		desc: "Lite weight expense tracking application that efficiently trackers users cash flow, debts, goals and gives sugges-tions to minimize spend- ing.reduce debt years to achieve their goals.Used react native to develop UI , redux for state management, realm database as local database",
 		github: "https://github.com/staticGuru/React-ecommerce-app",
 		link:"https://react-ecommerce-app-rho.vercel.app/"
+	},
+	{
+		name: "Decentralized Crowd Funding",
+		desc: "Implement the application with vite.js as a Frontend and Web3.0 as a backend service, Smart contract created with help of solidity and Hardhat web3 developement Platform. ThirdWeb is used to deploy the smartcontract with developer friendly.",
+		github: "https://github.com/staticGuru/Web3-Crowdfunding.git",
+		link:"https://web3-crowdfunding-eight.vercel.app/"
+	},
+	{
+		name: "CryptoBank (Web3 & Hardhat)",
+		desc: "Implement the application with React.js as a Frontend and Web3.0 as a backend service, Smart contract created with help of solidity and Hardhat web3 developement Platform. Alchemy is used to deploy the smartcontract in the GoerliETH testnet.",
+		github: "https://github.com/staticGuru/CryptoBank.git",
+		link:"https://crypto-bank.vercel.app/"
 	},
 ];
 
