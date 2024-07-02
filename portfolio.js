@@ -16,7 +16,7 @@ export const openSource = {
 export const contact = {};
 
 export const socialLinks = {
-  url: "https://github.com/staticGuru/",
+  url: "https://devtuneai.pro",
   linkedin: "https://www.linkedin.com/in/guruvignesh-m-280a64192/",
   github: "https://github.com/staticGuru/",
   instagram: "", //instagram profile link
