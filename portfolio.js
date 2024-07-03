@@ -157,14 +157,26 @@ export const skillsSection = {
     {
       title: "AI/ML development",
       lottieAnimationFile: "/lottie/skills/ai.json", // Path of Lottie Animation JSON File
-	  skills: [
-		emoji("⚡ Experience in developing machine learning models using Python"),
-		emoji("⚡ Expertise in natural language processing using NLTK and SpaCy"),
-		emoji("⚡ Developing and fine-tuning transformer models with Huggingface"),
-		emoji("⚡ Using OpenAI's GPT-3 and other large language models for NLP tasks"),
-		emoji("⚡ Experience with model deployment and serving using Flask and FastAPI"),
-		emoji("⚡ Utilizing cloud platforms like AWS, GCP, and Azure for scalable ML solutions"),
-	],
+      skills: [
+        emoji(
+          "⚡ Experience in developing machine learning models using Python"
+        ),
+        emoji(
+          "⚡ Expertise in natural language processing using NLTK and SpaCy"
+        ),
+        emoji(
+          "⚡ Developing and fine-tuning transformer models with Huggingface"
+        ),
+        emoji(
+          "⚡ Using OpenAI's GPT-3 and other large language models for NLP tasks"
+        ),
+        emoji(
+          "⚡ Experience with model deployment and serving using Flask and FastAPI"
+        ),
+        emoji(
+          "⚡ Utilizing cloud platforms like AWS, GCP, and Azure for scalable ML solutions"
+        ),
+      ],
       softwareSkills: [
         {
           skillName: "ChatGPT",
@@ -221,13 +233,13 @@ export const educationInfo = [
 ];
 
 export const experience = [
-	{
-		role: "Software Engineer",
-		company: "Kissflow",
-		companylogo: "/img/icons/common/kissflow.png",
-		date: "March 2023 – Present",
-		desc: "I worked as a Frontend Engineer where I contributed to developing user-friendly interfaces using React.js. I also integrated AI functionalities into the platform and leveraged my Python skills for backend tasks. This experience allowed me to enhance my expertise in creating efficient and responsive web applications."
-	  },
+  {
+    role: "Software Engineer",
+    company: "Kissflow",
+    companylogo: "/img/icons/common/kissflow.png",
+    date: "March 2023 – Present",
+    desc: "I worked as a Frontend Engineer where I contributed to developing user-friendly interfaces using React.js. I also integrated AI functionalities into the platform and leveraged my Python skills for backend tasks. This experience allowed me to enhance my expertise in creating efficient and responsive web applications.",
+  },
   {
     role: "Frontend Developer",
     company: "Ewall",
@@ -253,41 +265,38 @@ export const experience = [
 
 export const projects = [
   {
-    name: "React Native NFT marketplace",
-    desc: "Develop the SPA react landing page and host the application in decentralised hosting platform(IPFS).Develop the react native mobile app prototype with sementic UI elements.",
-    github: "https://github.com/staticGuru/NFT-market-",
-    link: "https://late-voice-3876.on.fleek.co/",
+    name: "FullStack (React & NodeJs)",
+    desc: "Fullstack WebRTC functionalities enable seamless real-time communication and collaboration. Meet chat features facilitate instant messaging during meetings, enhancing interaction and engagement. The system generates unique meet room IDs for secure and private video conferencing. Camera and microphone functionalities ensure high-quality audio and video streams. Additionally, users can share their screens and use whiteboard functionalities for interactive presentations and brainstorming sessions.",
+    github: "https://webrtc-meet-6l8p.onrender.com/",
+    link: "https://github.com/staticGuru/webRTC-meet",
+  },
+
+  {
+    name: "Kanban status board",
+    desc: "A React Kanban Status Board is a dynamic project management tool that visually organizes tasks into columns representing different stages of a workflow. It allows users to easily track progress, prioritize tasks, and collaborate in real-time by dragging and dropping task cards across various status columns. This intuitive interface enhances productivity and ensures efficient project management.",
+    github: "https://github.com/staticGuru/StatusBoard",
+    link: "https://guruvigneshstatusboard-staticgurus-projects.vercel.app/",
+  },
+
+  {
+    name: "Toll management application",
+    desc: "Toll management functionalities streamline the administration of toll collection systems. The toll creation flow allows for generating and filtering tolls based on various criteria. The system calculates toll fares dynamically based on toll areas and specific routes. It also provides functionalities to delete and update tolls, ensuring accurate and up-to-date toll information. These features enhance efficiency and accuracy in toll management operations.",
+    github: "https://github.com/staticGuru/toll_management_system",
+    link: "https://toll-management-system-iota.vercel.app/",
   },
   {
-    name: "Free-Talk",
-    desc: "With Free-Talk, it’s easy to connect with your friends with one to one chat and community chat functionalities bulit on MERN stack.",
-    github: "https://github.com/staticGuru/MERN-chat-application",
-    link: "https://conversation.herokuapp.com/",
-  },
-  {
-    name: "React (Ecommerce)",
+    name: "Ecommerce application",
     desc: "Lite weight expense tracking application that efficiently trackers users cash flow, debts, goals and gives sugges-tions to minimize spend- ing.reduce debt years to achieve their goals.Used react native to develop UI , redux for state management, realm database as local database",
     github: "https://github.com/staticGuru/React-ecommerce-app",
     link: "https://react-ecommerce-app-rho.vercel.app/",
   },
-  {
-    name: "Decentralized Crowd Funding",
-    desc: "Implement the application with vite.js as a Frontend and Web3.0 as a backend service, Smart contract created with help of solidity and Hardhat web3 developement Platform. ThirdWeb is used to deploy the smartcontract with developer friendly.",
-    github: "https://github.com/staticGuru/Web3-Crowdfunding.git",
-    link: "https://web3-crowdfunding-eight.vercel.app/",
-  },
-  {
-    name: "CryptoBank (Web3 & Hardhat)",
-    desc: "Implement the application with React.js as a Frontend and Web3.0 as a backend service, Smart contract created with help of solidity and Hardhat web3 developement Platform. Alchemy is used to deploy the smartcontract in the GoerliETH testnet.",
-    github: "https://github.com/staticGuru/CryptoBank.git",
-    link: "https://crypto-bank.vercel.app/",
-  },
 ];
 
-export const feedbacks = [ {
+export const feedbacks = [
+  {
     name: "DocsGPT Contributions",
     feedback:
-     "I developed and integrated features to enhance user experience and interface customization. I contributed to building a dynamic and user-friendly interface using technologies like React.js and Python. This work improved the overall functionality and appeal of the platform.",
+      "I developed and integrated features to enhance user experience and interface customization. I contributed to building a dynamic and user-friendly interface using technologies like React.js and Python. This work improved the overall functionality and appeal of the platform.",
     link: "https://github.com/arc53/DocsGPT",
   },
   {
