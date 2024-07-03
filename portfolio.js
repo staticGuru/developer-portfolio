@@ -32,11 +32,9 @@ export const skillsSection = {
       title: "Full Stack Development",
       lottieAnimationFile: "/lottie/skills/fullstack.json", // Path of Lottie Animation JSON File
       skills: [
-        emoji(
-          "⚡ Building responsive Single-Page-Apps (SPA) & PWA in React.js"
-        ),
-        emoji("⚡ Building responsive static websites using Next.js"),
-        emoji("⚡ Building RESTful APIs in Node Framework"),
+        "⚡ Building responsive Single-Page-Apps (SPA) & PWA in React.js",
+        "⚡ Building responsive static websites using Next.js",
+        "⚡ Building RESTful APIs in Node Framework",
       ],
       softwareSkills: [
         {
@@ -98,13 +96,10 @@ export const skillsSection = {
       title: "Cloud Infra-Architecture",
       lottieAnimationFile: "/lottie/skills/cloudinfra.json", // Path of Lottie Animation JSON File
       skills: [
-        emoji("⚡ Experience of working on multiple cloud platforms"),
-        emoji(
-          "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases"
-        ),
-        emoji(
-          "⚡ Building CI/CD pipelines for automated testing & deployment using Github Actions and Jenkins"
-        ),
+        "⚡ Experience of working on multiple cloud platforms",
+
+        "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",
+        "⚡ Building CI/CD pipelines for automated testing & deployment using Github Actions and Jenkins",
       ],
       softwareSkills: [
         // ? Check README To get icon details
@@ -158,24 +153,12 @@ export const skillsSection = {
       title: "AI/ML development",
       lottieAnimationFile: "/lottie/skills/ai.json", // Path of Lottie Animation JSON File
       skills: [
-        emoji(
-          "⚡ Experience in developing machine learning models using Python"
-        ),
-        emoji(
-          "⚡ Expertise in natural language processing using NLTK and SpaCy"
-        ),
-        emoji(
-          "⚡ Developing and fine-tuning transformer models with Huggingface"
-        ),
-        emoji(
-          "⚡ Using OpenAI's GPT-3 and other large language models for NLP tasks"
-        ),
-        emoji(
-          "⚡ Experience with model deployment and serving using Flask and FastAPI"
-        ),
-        emoji(
-          "⚡ Utilizing cloud platforms like AWS, GCP, and Azure for scalable ML solutions"
-        ),
+        "⚡ Experience in developing machine learning models using Python",
+        "⚡ Expertise in natural language processing using NLTK and SpaCy",
+        "⚡ Developing and fine-tuning transformer models with Huggingface",
+        "⚡ Using OpenAI's GPT-3 and other large language models for NLP tasks",
+        "⚡ Experience with model deployment and serving using Flask and FastAPI",
+        "⚡ Utilizing cloud platforms like AWS, GCP, and Azure for scalable ML solutions",
       ],
       softwareSkills: [
         {
