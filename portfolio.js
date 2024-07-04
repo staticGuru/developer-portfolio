@@ -273,6 +273,12 @@ export const projects = [
     github: "https://github.com/staticGuru/React-ecommerce-app",
     link: "https://react-ecommerce-app-rho.vercel.app/",
   },
+  {
+    name: "AI powered Flutter puzzle",
+    desc: "The AI-powered Flutter Puzzle app enhances mental health by offering a relaxing and engaging puzzle game. Users can solve numerical puzzles manually or with a voice assistant, choosing from three difficulty levels (3x3, 4x4, 5x5). The game features soothing background music to aid concentration and supports multiple languages. Assistance options include hints, shuffles, or resets as needed. AI-driven voice commands and error popups ensure smooth gameplay.",
+    github: "https://github.com/staticGuru/flutterPuzzleHackthon",
+    link: "https://devpost.com/software/ai-powered-flutter-puzzle",
+  },
 ];
 
 export const feedbacks = [
